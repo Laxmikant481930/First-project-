@@ -1,4 +1,4 @@
 # First-project
-This is my Git first Repository
+This is my first Git Repository
 <br>
 Author-Laxmikant dhawade
